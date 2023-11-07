@@ -20,3 +20,6 @@ The project examined value drivers such as inventory turnover, sales, and genera
 The project delved into enterprise breakdowns based on the liability-equity ratios of major IT companies. HCL Technologies had the lowest total current liabilities, while Infosys and Wipro had similar values. Wipro had the highest total non-current liabilities, while Tata Consultancy Services had the lowest. Wipro also had the lowest total stockholder equity.
 
 In conclusion, the project's analysis of the Indian IT industry provided valuable insights into its competitive landscape, profitability trends, and financial health. It highlighted the industry's strong performance and leading position in comparison to other sectors like financial services. Additionally, the enterprise comparison revealed that Tata Consultancy Services and HCL Technologies stood out as strong players. The value driver analysis indicated the impact of external factors like the COVID-19 pandemic on financial metrics. These insights can inform decision-making and strategy development in the Indian IT industry and beyond.
+Link to Project - https://www.scdata.ai/project/38955
+                  https://www.scdata.ai/project/38951
+                  https://www.scdata.ai/project/38953
